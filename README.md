@@ -30,7 +30,7 @@ Here are some ideas for features we could add that build on the final source cod
 
 ## Usage Guide
 
-In order to run this code you just need to have [cargo`](https://github.com/rust-lang/cargo) installed.
+In order to run this code you just need to have [cargo](https://github.com/rust-lang/cargo) installed.
 
 To check if you have cargo installed:
 ```
