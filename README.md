@@ -37,6 +37,8 @@ To check if you have cargo installed:
 cargo -v
 ```
 
+<br/>
+
 Then run the below commands inside the `guessing_game` directory:
 
 <br/>
